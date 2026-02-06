@@ -26,15 +26,8 @@ e nos gastos mensais.
 
 
 
-\## ▶️ Como executar
-
-No terminal, dentro da pasta do projeto:
-
-
-
-```bash
-
 python calculadora\_salario.py
+
 
 
 
